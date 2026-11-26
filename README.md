@@ -37,7 +37,7 @@ Totals by category:
 
 - `clean_and_report.py`: the script, one small function per job
 - `messy_transactions.csv`: made-up sample data
-- `sample_clean_transactions.csv` and `sample_report.xlsx`: what the script produces from the sample
+- `sample_clean_transactions.csv`: what the script produces from the sample (the Excel report is created when you run it)
 - `test_cleaning.py`: basic tests for the cleaning functions
 
 ## Limits
