@@ -1,0 +1,16 @@
+Date,Description,Category,Amount
+2026-01-03,Office rent,  rent ,"-4,500.00"
+03/01/2026,Office rent,Rent,"-4500"
+05/01/2026,Client invoice #101,Income,12000
+2026-01-07,Internet bill,UTILITIES,-350.5
+,,,
+08-01-2026,Printer paper,office supplies,-120
+2026-01-09,Client invoice #102,income,"8,250.75"
+2026-01-12,Electricity,Utilities,-610
+12/01/2026,Taxi to client,Transport,-85
+2026-01-15,Team lunch,Meals,-430
+2026-01-15,Team lunch,meals,-430
+2026-01-20,Client invoice #103,Income,5000
+2026-01-22,Software subscription,Office Supplies,abc
+2026-01-25,Fuel,transport,-300
+2026-01-28,Telephone,Utilities,-199.99
